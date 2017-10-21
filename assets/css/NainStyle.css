@@ -1,0 +1,39 @@
+body{
+	background-image: url('../img/10337640.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color:white;
+}
+h1{
+	color: #e7684f;
+	font-family: Verdana;
+}
+.main{
+	width: 30%;
+	background-color: rgba(231,104,79,0.4);
+	padding: 25px;
+	text-align: center;
+	position: relative;
+	top: 300px;
+	left: 100px;
+}
+select{
+	width: 15%;
+	height: 30px;
+	border-radius: 5px;
+}
+.submit{
+	background-color: white;
+	border: none;
+	border-radius: 5px;
+	padding: 5px;
+
+}
